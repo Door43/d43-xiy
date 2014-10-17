@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xiy:home|Door43 (xiy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xiy|d43-xiy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xiy/archive/master.zip|d43-xiy.zip]]
+
+**Recent Changes**
+{{changes>ns = xiy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xiy|Ethnologue data]]
+
